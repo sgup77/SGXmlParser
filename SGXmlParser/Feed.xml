@@ -1,0 +1,445 @@
+/* This is ths sample xml at the time of this tutorial. this might change in the future. This is just for reference */
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://rss.nytimes.com/xsl/eng/rss.xsl'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+<channel>
+<atom:link href="http://www.nytimes.com/services/xml/rss/nyt/Multimedia.xml" rel="self" type="application/rss+xml" />
+<title>NYT &gt; Multimedia/Photos</title>
+<link>http://www.nytimes.com/pages/multimedia/index.html?partner=rss&amp;emc=rss</link>
+<description>Multimedia</description>
+<language>en-us</language>
+<copyright>Copyright 2014 The New York Times Company</copyright>
+<pubDate>Wed, 20 Aug 2014 02:36:11 GMT</pubDate>
+<lastBuildDate>Wed, 20 Aug 2014 02:36:11 GMT</lastBuildDate>
+<ttl>2</ttl>
+<image>
+<title>NYT &gt; Multimedia/Photos</title>
+<url>http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png</url>
+<link>http://www.nytimes.com/pages/multimedia/index.html?partner=rss&amp;emc=rss</link>
+</image>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/19/us/ferguson-missouri-protests.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Missouri Tries Another Idea: Call In National Guard</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3da10d21/sc/1/l/0L0Snytimes0N0C20A140C0A80C190Cus0Cferguson0Emissouri0Eprotests0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>In the days since a teenager was shot to death in Ferguson, Mo., an array of state and local law enforcement authorities have swerved from one approach to another.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3da10d21/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366703139/u/392/f/640361/c/34625/s/3da10d21/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366703139/u/392/f/640361/c/34625/s/3da10d21/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366703139/u/392/f/640361/c/34625/s/3da10d21/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366703139/u/392/f/640361/c/34625/s/3da10d21/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366703139/u/392/f/640361/c/34625/s/3da10d21/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366703139/u/392/f/640361/c/34625/s/3da10d21/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366703139/u/392/f/640361/c/34625/s/3da10d21/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366703139/u/392/f/640361/c/34625/s/3da10d21/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366703139/u/392/f/640361/c/34625/s/3da10d21/sc/1/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilson, Darren (1986- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Michael (1996-2014)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nixon, Jay</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holder, Eric H Jr</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferguson (Mo)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Curfews</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Guard</category>
+<pubDate>Tue, 19 Aug 2014 21:53:11 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/19/us/ferguson-missouri-protests.html</guid>
+<dc:creator>By MONICA DAVEY, JOHN ELIGON and ALAN BLINDER</dc:creator>
+<media:credit scheme="urn:ebu">Charlie Riedel/Associated Press</media:credit>
+<media:description>People continued to protest in Ferguson, Mo. on Monday night, a week after Michael Brown, an unarmed black teenager, was killed by a police officer.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/19/us/19MISSOURI-hp1/19MISSOURI-hp1-moth.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/20/nyregion/from-bronck-to-the-bronx-a-name-and-a-swedish-heritage-to-celebrate.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>A Bronck in the Bronx Gives a Swedish Town A Reason to Cheer</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3daace11/sc/10/l/0L0Snytimes0N0C20A140C0A80C20A0Cnyregion0Cfrom0Ebronck0Eto0Ethe0Ebronx0Ea0Ename0Eand0Ea0Eswedish0Eheritage0Eto0Ecelebrate0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Jonas Bronck arrived 375 years ago as the first European in the Bronx, an occasion that will be commemorated by descendants and dignitaries from both countries.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3daace11/sc/10/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration and Emigration</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bronck, Jonas</category>
+<pubDate>Tue, 19 Aug 2014 17:23:18 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/20/nyregion/from-bronck-to-the-bronx-a-name-and-a-swedish-heritage-to-celebrate.html</guid>
+<dc:creator>By SAM ROBERTS</dc:creator>
+<media:credit scheme="urn:ebu">Nicole Bengiveno/The New York Times</media:credit>
+<media:description>A mural in the rotunda of the Bronx County Courthouse depicts Jonas Bronck arriving in Westchester County.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/18/nyregion/BRONXweb1/BRONXweb1-moth-v3.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/19/science/a-world-of-creatures-that-hide-in-the-open.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>A World of Creatures That Hide in the Open</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3da10d1f/sc/10/l/0L0Snytimes0N0C20A140C0A80C190Cscience0Ca0Eworld0Eof0Ecreatures0Ethat0Ehide0Ein0Ethe0Eopen0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>In the ocean, fish can be defenseless without some ingenious strategies. Some can make themselves transparent; others do it with mirrors.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3da10d1f/sc/10/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366703138/u/392/f/640361/c/34625/s/3da10d1f/sc/10/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366703138/u/392/f/640361/c/34625/s/3da10d1f/sc/10/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366703138/u/392/f/640361/c/34625/s/3da10d1f/sc/10/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366703138/u/392/f/640361/c/34625/s/3da10d1f/sc/10/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366703138/u/392/f/640361/c/34625/s/3da10d1f/sc/10/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366703138/u/392/f/640361/c/34625/s/3da10d1f/sc/10/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366703138/u/392/f/640361/c/34625/s/3da10d1f/sc/10/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366703138/u/392/f/640361/c/34625/s/3da10d1f/sc/10/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366703138/u/392/f/640361/c/34625/s/3da10d1f/sc/10/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Widder, Edith</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Camouflage</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnsen, Sonke</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+<pubDate>Mon, 18 Aug 2014 22:55:35 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/19/science/a-world-of-creatures-that-hide-in-the-open.html</guid>
+<dc:creator>By KENNETH CHANG</dc:creator>
+<media:credit scheme="urn:ebu">Sonke Johnsen/Duke University</media:credit>
+<media:description>A flatfish larva is among the sea animals that rely on transparence for protection.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/19/science/19fish-flatfish/seethrough-fish-slide-Y80P-moth.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/12/movies/robin-williams-oscar-winning-comedian-dies-at-63.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Robin Williams, Oscar-Winning Comedian, Dies at 63 in Suspected Suicide</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d697b8b/sc/17/l/0L0Snytimes0N0C20A140C0A80C120Cmovies0Crobin0Ewilliams0Eoscar0Ewinning0Ecomedian0Edies0Eat0E630Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Mr. Williams imbued a lifetime of performances with a wild inventiveness and energy. The Marin County sheriff’s office said it suspected the death was “a suicide due to asphyxia.”&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d697b8b/sc/17/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366489309/u/392/f/640361/c/34625/s/3d697b8b/sc/17/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366489309/u/392/f/640361/c/34625/s/3d697b8b/sc/17/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366489309/u/392/f/640361/c/34625/s/3d697b8b/sc/17/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366489309/u/392/f/640361/c/34625/s/3d697b8b/sc/17/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366489309/u/392/f/640361/c/34625/s/3d697b8b/sc/17/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366489309/u/392/f/640361/c/34625/s/3d697b8b/sc/17/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366489309/u/392/f/640361/c/34625/s/3d697b8b/sc/17/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366489309/u/392/f/640361/c/34625/s/3d697b8b/sc/17/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366489309/u/392/f/640361/c/34625/s/3d697b8b/sc/17/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Depression (Mental)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Good Will Hunting (Movie)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Robin</category>
+<pubDate>Mon, 18 Aug 2014 22:10:42 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/12/movies/robin-williams-oscar-winning-comedian-dies-at-63.html</guid>
+<dc:creator>By DAVE ITZKOFF</dc:creator>
+</item>
+<item>
+<atom:link href="http://lens.blogs.nytimes.com/2014/08/18/pictures-of-the-day-ukraine-and-elsewhere-47/?partner=rss&amp;emc=rss" rel="standout" />
+<title>Lens Blog: Pictures of the Day: Ukraine and Elsewhere</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3da01b84/sc/7/l/0Llens0Bblogs0Bnytimes0N0C20A140C0A80C180Cpictures0Eof0Ethe0Eday0Eukraine0Eand0Eelsewhere0E470C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Photos from Ukraine, Egypt, Afghanistan and Iraq.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3da01b84/sc/7/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366676331/u/392/f/640361/c/34625/s/3da01b84/sc/7/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366676331/u/392/f/640361/c/34625/s/3da01b84/sc/7/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366676331/u/392/f/640361/c/34625/s/3da01b84/sc/7/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366676331/u/392/f/640361/c/34625/s/3da01b84/sc/7/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366676331/u/392/f/640361/c/34625/s/3da01b84/sc/7/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366676331/u/392/f/640361/c/34625/s/3da01b84/sc/7/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366676331/u/392/f/640361/c/34625/s/3da01b84/sc/7/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366676331/u/392/f/640361/c/34625/s/3da01b84/sc/7/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366676331/u/392/f/640361/c/34625/s/3da01b84/sc/7/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/">Pictures of the Day</category>
+<category domain="http://www.nytimes.com/namespaces/">Lynsey Addario</category>
+<category domain="http://www.nytimes.com/namespaces/">Gregorio Borgia</category>
+<category domain="http://www.nytimes.com/namespaces/">India</category>
+<category domain="http://www.nytimes.com/namespaces/">Noorullah Shirzada</category>
+<category domain="http://www.nytimes.com/namespaces/">Photography</category>
+<category domain="http://www.nytimes.com/namespaces/">Sang Tan</category>
+<category domain="http://www.nytimes.com/namespaces/">Abed Al Hashlamoun</category>
+<category domain="http://www.nytimes.com/namespaces/">South Korea</category>
+<category domain="http://www.nytimes.com/namespaces/">Egypt</category>
+<category domain="http://www.nytimes.com/namespaces/">Ukraine</category>
+<category domain="http://www.nytimes.com/namespaces/">Divyakant Solanki</category>
+<category domain="http://www.nytimes.com/namespaces/">Mauricio Lima</category>
+<category domain="http://www.nytimes.com/namespaces/">The New York Times Pictures of the Day</category>
+<category domain="http://www.nytimes.com/namespaces/">Thomas Coex</category>
+<category domain="http://www.nytimes.com/namespaces/">Afghanistan</category>
+<category domain="http://www.nytimes.com/namespaces/">London</category>
+<category domain="http://www.nytimes.com/namespaces/">Iraq</category>
+<pubDate>Mon, 18 Aug 2014 20:35:32 GMT</pubDate>
+<guid isPermaLink="false">http://lens.blogs.nytimes.com/2014/08/18/pictures-of-the-day-ukraine-and-elsewhere-47/</guid>
+<dc:creator>By THE NEW YORK TIMES</dc:creator>
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/17/us/ferguson-missouri-protests.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Midnight Curfew in Effect for Ferguson</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d92d62b/sc/3/l/0L0Snytimes0N0C20A140C0A80C170Cus0Cferguson0Emissouri0Eprotests0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Gov. Jay Nixon ordered the curfew as protests continued over the police shooting of an unarmed black teenager, Michael Brown, and after incidents of looting Friday night.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d92d62b/sc/3/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366639972/u/392/f/640361/c/34625/s/3d92d62b/sc/3/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366639972/u/392/f/640361/c/34625/s/3d92d62b/sc/3/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366639972/u/392/f/640361/c/34625/s/3d92d62b/sc/3/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366639972/u/392/f/640361/c/34625/s/3d92d62b/sc/3/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366639972/u/392/f/640361/c/34625/s/3d92d62b/sc/3/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366639972/u/392/f/640361/c/34625/s/3d92d62b/sc/3/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366639972/u/392/f/640361/c/34625/s/3d92d62b/sc/3/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366639972/u/392/f/640361/c/34625/s/3d92d62b/sc/3/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366639972/u/392/f/640361/c/34625/s/3d92d62b/sc/3/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Michael (1996-2014)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferguson (Mo)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+<pubDate>Mon, 18 Aug 2014 19:54:35 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/17/us/ferguson-missouri-protests.html</guid>
+<dc:creator>By JULIE BOSMAN and ALAN BLINDER</dc:creator>
+<media:credit scheme="urn:ebu">Eric Thayer for The New York Times</media:credit>
+<media:description>Governor Jay Nixon of Missouri on Saturday imposed a midnight to 5 a.m. curfew for Ferguson.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/17/us/17missouri2/17missouri2-moth.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/18/us/ferguson-missouri-protests.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Violence Flares in Ferguson After Appeals for Harmony</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d98da97/sc/1/l/0L0Snytimes0N0C20A140C0A80C180Cus0Cferguson0Emissouri0Eprotests0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Despite efforts throughout the day in local churches to tamp down the outrage, the most chaotic violence in a week of unrest broke out in Ferguson, Mo., on Sunday night.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d98da97/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366627001/u/392/f/640361/c/34625/s/3d98da97/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366627001/u/392/f/640361/c/34625/s/3d98da97/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366627001/u/392/f/640361/c/34625/s/3d98da97/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366627001/u/392/f/640361/c/34625/s/3d98da97/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366627001/u/392/f/640361/c/34625/s/3d98da97/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366627001/u/392/f/640361/c/34625/s/3d98da97/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366627001/u/392/f/640361/c/34625/s/3d98da97/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366627001/u/392/f/640361/c/34625/s/3d98da97/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366627001/u/392/f/640361/c/34625/s/3d98da97/sc/1/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Race and Ethnicity</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Michael (1996-2014)</category>
+<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Facebook Inc|FB|NASDAQ</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nixon, Jay</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilson, Darren</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferguson (Mo)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Curfews</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+<pubDate>Mon, 18 Aug 2014 05:59:51 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/18/us/ferguson-missouri-protests.html</guid>
+<dc:creator>By ALAN BLINDER and TANZINA VEGA</dc:creator>
+<media:credit scheme="urn:ebu">Joshua Lott/Getty Images</media:credit>
+<media:description>A woman's face was doused with milk after she was exposed to tear gas used by the police at a protest.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/17/us/17MISSOURI-overnight2/17MISSOURI-overnight2-moth.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/18/nyregion/for-clubs-swimmers-bronx-waters-fine-and-so-is-the-scum.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Summer In ...: For Clubs’ Swimmers, Bronx Water’s Fine, and So Is the Scum</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3da19fae/sc/10/l/0L0Snytimes0N0C20A140C0A80C180Cnyregion0Cfor0Eclubs0Eswimmers0Ebronx0Ewaters0Efine0Eand0Eso0Eis0Ethe0Escum0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>A group of private beach clubs in Throgs Neck holds a swim competition every summer. Participants race against each other, and take on the murky Eastchester Bay.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3da19fae/sc/10/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Throgs Neck (Bronx, NY)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastchester Bay (Bronx, NY)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Interclub Assn (Bronx, NY)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Summer In... (Series)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Series</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming</category>
+<pubDate>Mon, 18 Aug 2014 02:32:53 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/18/nyregion/for-clubs-swimmers-bronx-waters-fine-and-so-is-the-scum.html</guid>
+<dc:creator>By COREY KILGANNON</dc:creator>
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/18/world/middleeast/gaza-strip-war-leaves-another-crisis-for-displaced-gazans.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>In Torn Gaza, if Roof Stands, It’s Now Home</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d98da94/sc/8/l/0L0Snytimes0N0C20A140C0A80C180Cworld0Cmiddleeast0Cgaza0Estrip0Ewar0Eleaves0Eanother0Ecrisis0Efor0Edisplaced0Egazans0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>With an estimated 11,000 homes destroyed and many more severely damaged, Gaza’s housing and humanitarian troubles are just beginning.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d98da94/sc/8/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366626999/u/392/f/640361/c/34625/s/3d98da94/sc/8/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366626999/u/392/f/640361/c/34625/s/3d98da94/sc/8/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366626999/u/392/f/640361/c/34625/s/3d98da94/sc/8/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366626999/u/392/f/640361/c/34625/s/3d98da94/sc/8/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366626999/u/392/f/640361/c/34625/s/3d98da94/sc/8/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366626999/u/392/f/640361/c/34625/s/3d98da94/sc/8/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366626999/u/392/f/640361/c/34625/s/3d98da94/sc/8/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366626999/u/392/f/640361/c/34625/s/3d98da94/sc/8/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366626999/u/392/f/640361/c/34625/s/3d98da94/sc/8/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations Relief and Works Agency</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Humanitarian Aid</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Hamas</category>
+<pubDate>Mon, 18 Aug 2014 01:14:51 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/18/world/middleeast/gaza-strip-war-leaves-another-crisis-for-displaced-gazans.html</guid>
+<dc:creator>By JODI RUDOREN</dc:creator>
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/10/realestate/the-financial-district-gains-momentum.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>The Financial District Gains Momentum</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d54c8c7/sc/30/l/0L0Snytimes0N0C20A140C0A80C10A0Crealestate0Cthe0Efinancial0Edistrict0Egains0Emomentum0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Downtown Manhattan has renewed itself with vigor. Both population and prices are rising.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d54c8c7/sc/30/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366639973/u/392/f/640361/c/34625/s/3d54c8c7/sc/30/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366639973/u/392/f/640361/c/34625/s/3d54c8c7/sc/30/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366639973/u/392/f/640361/c/34625/s/3d54c8c7/sc/30/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366639973/u/392/f/640361/c/34625/s/3d54c8c7/sc/30/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366639973/u/392/f/640361/c/34625/s/3d54c8c7/sc/30/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366639973/u/392/f/640361/c/34625/s/3d54c8c7/sc/30/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366639973/u/392/f/640361/c/34625/s/3d54c8c7/sc/30/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366639973/u/392/f/640361/c/34625/s/3d54c8c7/sc/30/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366639973/u/392/f/640361/c/34625/s/3d54c8c7/sc/30/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Goldman Sachs Group Inc|GS|NYSE</category>
+<category domain="http://www.nytimes.com/namespaces/nyt_org_all">American International Group Inc|AIG|NYSE</category>
+<category domain="http://www.nytimes.com/namespaces/nyt_org_all">JPMorgan Chase &amp; Company|JPM|NYSE</category>
+<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Howard Hughes Corporation|HHC|NYSE</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Financial District (Manhattan, NY)</category>
+<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Barclays PLC|BCS|NYSE</category>
+<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Revlon Inc|REV|NYSE</category>
+<pubDate>Sun, 17 Aug 2014 01:38:01 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/10/realestate/the-financial-district-gains-momentum.html</guid>
+<dc:creator>By C. J. HUGHES</dc:creator>
+<media:credit scheme="urn:ebu">Hiroko Masuike/The New York Times</media:credit>
+<media:description>The waterfront is being reinvented at the Seaport. People relax on the grass on Pier 15 against a backdrop of office towers.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/10/realestate/20140810-COVER-slide-9FMJ/20140810-COVER-slide-9FMJ-moth.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/17/world/middleeast/iraq-alissa-j-rubin-a-times-correspondent-recounts-fatal-helicopter-crash-in-kurdistan.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Reporter's Notebook: On a Helicopter, Going Down: Inside a Lethal Crash in Iraq</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d92774f/sc/11/l/0L0Snytimes0N0C20A140C0A80C170Cworld0Cmiddleeast0Ciraq0Ealissa0Ej0Erubin0Ea0Etimes0Ecorrespondent0Erecounts0Efatal0Ehelicopter0Ecrash0Ein0Ekurdistan0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Alissa J. Rubin, a veteran Times foreign correspondent, was injured Tuesday in a helicopter crash in Kurdistan and dictated this article from her hospital bed in Istanbul.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d92774f/sc/11/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366597510/u/392/f/640361/c/34625/s/3d92774f/sc/11/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366597510/u/392/f/640361/c/34625/s/3d92774f/sc/11/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366597510/u/392/f/640361/c/34625/s/3d92774f/sc/11/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366597510/u/392/f/640361/c/34625/s/3d92774f/sc/11/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366597510/u/392/f/640361/c/34625/s/3d92774f/sc/11/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366597510/u/392/f/640361/c/34625/s/3d92774f/sc/11/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366597510/u/392/f/640361/c/34625/s/3d92774f/sc/11/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366597510/u/392/f/640361/c/34625/s/3d92774f/sc/11/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366597510/u/392/f/640361/c/34625/s/3d92774f/sc/11/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pesh Merga</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents and Safety</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Yazidi (Religious Sect)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rescues</category>
+<pubDate>Sat, 16 Aug 2014 18:52:26 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/17/world/middleeast/iraq-alissa-j-rubin-a-times-correspondent-recounts-fatal-helicopter-crash-in-kurdistan.html</guid>
+<dc:creator>By ALISSA J. RUBIN</dc:creator>
+<media:credit scheme="urn:ebu">Adam Ferguson for The New York Times</media:credit>
+<media:description>Alissa J. Rubin, a Times reporter, on the left, and Vian Dakhil, a Yazidi lawmaker.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/17/world/17alissa-web/17alissa-web-moth.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/17/world/africa/with-aid-doctors-gone-ebola-fight-grows-harder.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>With Aid Doctors Gone, Ebola Fight Grows Harder</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d928087/sc/11/l/0L0Snytimes0N0C20A140C0A80C170Cworld0Cafrica0Cwith0Eaid0Edoctors0Egone0Eebola0Efight0Egrows0Eharder0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>The departure of many Western development workers from the West African countries hit hardest by Ebola has further weakened the region’s decrepit, understaffed health systems.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d928087/sc/11/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">ZMapp (Drug)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liberia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guinea</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nabarro, David</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sierra Leone</category>
+<pubDate>Sat, 16 Aug 2014 18:49:30 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/17/world/africa/with-aid-doctors-gone-ebola-fight-grows-harder.html</guid>
+<dc:creator>By SHERI FINK</dc:creator>
+<media:credit scheme="urn:ebu">John Moore/Getty Images</media:credit>
+<media:description>A Liberian health worker disinfected the corpse of an Ebola victim.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/17/world/17EBOLA/17EBOLA-moth-v3.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/17/world/asia/huge-crowds-watch-in-seoul-as-pope-francis-beatifies-korean-catholics.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Papal Visit That Thrills Catholics Is Unsettling to Protestants in South Korea</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d92d629/sc/39/l/0L0Snytimes0N0C20A140C0A80C170Cworld0Casia0Chuge0Ecrowds0Ewatch0Ein0Eseoul0Eas0Epope0Efrancis0Ebeatifies0Ekorean0Ecatholics0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Hundreds of thousands cheered the pope in downtown Seoul, but not everyone has welcomed him to a country where the church has vied for followers with Protestant groups.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d92d629/sc/39/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Roman Catholic Church</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+<pubDate>Sat, 16 Aug 2014 16:01:05 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/17/world/asia/huge-crowds-watch-in-seoul-as-pope-francis-beatifies-korean-catholics.html</guid>
+<dc:creator>By CHOE SANG-HUN</dc:creator>
+<media:credit scheme="urn:ebu">Pool photo by Chung Sung-Jun</media:credit>
+<media:description>Pope Francis in Seoul, South Korea, on Saturday, where 124 Korean Catholics who were martyred in the 18th and 19th centuries were beatified.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/17/world/asia/17korea/17korea-moth-v2.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/16/world/middleeast/in-an-Iraqi-town-hollowed-out-by-jihadists-there-is-no-going-back-to-how-it-was.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>In an Iraqi Town Hollowed Out by Jihadists, There Is No Going Back to How It Was</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d8da98c/sc/1/l/0L0Snytimes0N0C20A140C0A80C160Cworld0Cmiddleeast0Cin0Ean0EIraqi0Etown0Ehollowed0Eout0Eby0Ejihadists0Ethere0Eis0Eno0Egoing0Eback0Eto0Ehow0Eit0Ewas0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Nearly a week after American airstrikes paved the way for Kurdish forces to reclaim Mahmour from the Sunni militants of ISIS, very few people have returned.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d8da98c/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366581957/u/392/f/640361/c/34625/s/3d8da98c/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366581957/u/392/f/640361/c/34625/s/3d8da98c/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366581957/u/392/f/640361/c/34625/s/3d8da98c/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366581957/u/392/f/640361/c/34625/s/3d8da98c/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366581957/u/392/f/640361/c/34625/s/3d8da98c/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366581957/u/392/f/640361/c/34625/s/3d8da98c/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366581957/u/392/f/640361/c/34625/s/3d8da98c/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366581957/u/392/f/640361/c/34625/s/3d8da98c/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366581957/u/392/f/640361/c/34625/s/3d8da98c/sc/1/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mahmour (Iraq)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pesh Merga</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Iraqi Army</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maliki, Nuri Kamal al-</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+<pubDate>Sat, 16 Aug 2014 01:19:37 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/16/world/middleeast/in-an-Iraqi-town-hollowed-out-by-jihadists-there-is-no-going-back-to-how-it-was.html</guid>
+<dc:creator>By AZAM AHMED</dc:creator>
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/14/us/missouri-teenager-and-officer-scuffled-before-shooting-chief-says.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Anonymity in Police Shooting Fuels Anger in Missouri</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d7caf92/sc/7/l/0L0Snytimes0N0C20A140C0A80C140Cus0Cmissouri0Eteenager0Eand0Eofficer0Escuffled0Ebefore0Eshooting0Echief0Esays0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>In the days since an unarmed man was killed by a police officer in Ferguson, Mo., the selective release of information, and especially the anonymity granted the officer, has stoked frustrations.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d7caf92/sc/7/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366574938/u/392/f/640361/c/34625/s/3d7caf92/sc/7/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366574938/u/392/f/640361/c/34625/s/3d7caf92/sc/7/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366574938/u/392/f/640361/c/34625/s/3d7caf92/sc/7/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366574938/u/392/f/640361/c/34625/s/3d7caf92/sc/7/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366574938/u/392/f/640361/c/34625/s/3d7caf92/sc/7/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366574938/u/392/f/640361/c/34625/s/3d7caf92/sc/7/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366574938/u/392/f/640361/c/34625/s/3d7caf92/sc/7/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366574938/u/392/f/640361/c/34625/s/3d7caf92/sc/7/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366574938/u/392/f/640361/c/34625/s/3d7caf92/sc/7/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Twitter|TWTR|NYSE</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Civil Liberties Union</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Civil Rights and Liberties</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Michael (1996-2014)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferguson (Mo)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+<pubDate>Sat, 16 Aug 2014 01:07:40 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/14/us/missouri-teenager-and-officer-scuffled-before-shooting-chief-says.html</guid>
+<dc:creator>By JULIE BOSMAN and ERIK ECKHOLM</dc:creator>
+<media:credit scheme="urn:ebu">Whitney Curtis for The New York Times</media:credit>
+<media:description>The police before a rally Wednesday in Ferguson, Mo., where a teenager was shot by an officer last week.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/14/us/MISSOURI/MISSOURI-moth.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/16/sports/scrutiny-circles-track-at-del-mar.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Scrutiny Circles Track at Del Mar</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d8da98b/sc/13/l/0L0Snytimes0N0C20A140C0A80C160Csports0Cscrutiny0Ecircles0Etrack0Eat0Edel0Emar0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>The California racetrack will host the 2017 Breeders’ Cup, but its summer meet has been troubled by a series of calamities, including the deaths of five horses on the newly installed turf course.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d8da98b/sc/13/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Breeders' Cup (Horse Races)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">California Horse Racing Board</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Horse Racing</category>
+<pubDate>Sat, 16 Aug 2014 00:27:51 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/16/sports/scrutiny-circles-track-at-del-mar.html</guid>
+<dc:creator>By BILLY WITZ</dc:creator>
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/16/arts/design/first-world-war-galleries-reopen-at-imperial-war-museum.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Museum Review: First World War Galleries Reopen at Imperial War Museum</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d8da98a/sc/38/l/0L0Snytimes0N0C20A140C0A80C160Carts0Cdesign0Cfirst0Eworld0Ewar0Egalleries0Ereopen0Eat0Eimperial0Ewar0Emuseum0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>The remodeled First World War galleries at the Imperial War Museum in London prefer to convey the experience of the conflict rather than explain the forces behind it.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d8da98a/sc/38/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Imperial War Museum</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">World War I (1914-18)</category>
+<pubDate>Fri, 15 Aug 2014 22:17:19 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/16/arts/design/first-world-war-galleries-reopen-at-imperial-war-museum.html</guid>
+<dc:creator>By EDWARD ROTHSTEIN</dc:creator>
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/17/realestate/murray-hill-for-family-living.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Living in: Murray Hill for Family Living</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d7caf74/sc/36/l/0L0Snytimes0N0C20A140C0A80C170Crealestate0Cmurray0Ehill0Efor0Efamily0Eliving0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Home to recent college graduates and older residents, the area is also attracting more families with children.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d7caf74/sc/36/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366577671/u/392/f/640361/c/34625/s/3d7caf74/sc/36/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366577671/u/392/f/640361/c/34625/s/3d7caf74/sc/36/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366577671/u/392/f/640361/c/34625/s/3d7caf74/sc/36/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366577671/u/392/f/640361/c/34625/s/3d7caf74/sc/36/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366577671/u/392/f/640361/c/34625/s/3d7caf74/sc/36/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366577671/u/392/f/640361/c/34625/s/3d7caf74/sc/36/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366577671/u/392/f/640361/c/34625/s/3d7caf74/sc/36/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366577671/u/392/f/640361/c/34625/s/3d7caf74/sc/36/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366577671/u/392/f/640361/c/34625/s/3d7caf74/sc/36/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Murray Hill (Manhattan, NY)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+<pubDate>Fri, 15 Aug 2014 20:54:47 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/17/realestate/murray-hill-for-family-living.html</guid>
+<dc:creator>By ALISON GREGOR</dc:creator>
+<media:credit scheme="urn:ebu">Edwin J. Torres for The New York Times</media:credit>
+<media:description>An unrenovated two-bedroom, two-and-a-half-bath in Morgan Court, listed at $2.35 million. (646) 263-6709</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/17/realestate/17GAZ1/17GAZ1-moth.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/17/automobiles/collectibles/to-preserve-and-protect.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Pebble Beach: To Preserve and Protect</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d8da989/sc/18/l/0L0Snytimes0N0C20A140C0A80C170Cautomobiles0Ccollectibles0Cto0Epreserve0Eand0Eprotect0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>A 1922 Packard Twin Six is one of 16 original, unrestored entries scheduled to compete at the Pebble Beach Concours d’Élégance on Sunday in California.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d8da989/sc/18/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Antique and Classic Cars</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pebble Beach (Calif)</category>
+<pubDate>Fri, 15 Aug 2014 20:07:50 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/17/automobiles/collectibles/to-preserve-and-protect.html</guid>
+<dc:creator>By AARON ROBINSON</dc:creator>
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/17/travel/in-idaho-tracing-what-remains-after-the-flames.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>In Idaho, Tracing What Remains After the Flames</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d8da988/sc/10/l/0L0Snytimes0N0C20A140C0A80C170Ctravel0Cin0Eidaho0Etracing0Ewhat0Eremains0Eafter0Ethe0Eflames0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Exploring the scenic central part of the state and pondering the mosaic of destruction and renewal left by wildfires.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d8da988/sc/10/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Idaho</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sun Valley (Idaho)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Travel and Vacations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+<pubDate>Fri, 15 Aug 2014 19:38:04 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/17/travel/in-idaho-tracing-what-remains-after-the-flames.html</guid>
+<dc:creator>By FERNANDA SANTOS</dc:creator>
+<media:credit scheme="urn:ebu">Leah Nash for The New York Times</media:credit>
+<media:description>Remains of a fire in Boise National Forest.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/17/travel/17idaho-1/17idaho-1-moth.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/17/realestate/new-waterfront-condos-in-the-bronx.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>New Waterfront Condos in the Bronx</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d8da987/sc/10/l/0L0Snytimes0N0C20A140C0A80C170Crealestate0Cnew0Ewaterfront0Econdos0Ein0Ethe0Ebronx0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>New condo developments on City Island aren’t proposed often, and residents of this 230-acre island have a history of being tough to please.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d8da987/sc/10/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">City Island (Bronx, NY)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+<pubDate>Fri, 15 Aug 2014 19:37:31 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/17/realestate/new-waterfront-condos-in-the-bronx.html</guid>
+<dc:creator>By ALISON GREGOR</dc:creator>
+<media:credit scheme="urn:ebu">Paperfarm</media:credit>
+<media:description>A rendering of a condominium in the development On the Sound, which will bring 43 new homes to City Island.</media:description>
+<media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/17/realestate/20140817-CITYISLAND-slide-3CJD/20140817-CITYISLAND-slide-3CJD-moth.jpg" />
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/16/nyregion/an-education-in-keeping-new-york-clean-and-keeping-themselves-safe.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>At This Academy, the Curriculum Is Garbage</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d8da985/sc/38/l/0L0Snytimes0N0C20A140C0A80C160Cnyregion0Can0Eeducation0Ein0Ekeeping0Enew0Eyork0Eclean0Eand0Ekeeping0Ethemselves0Esafe0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>A new class of sanitation workers learns how to drive garbage trucks and grapple with snow chains, and why trash bags are best held at arm’s length.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d8da985/sc/38/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sanitation Department (NYC)</category>
+<pubDate>Fri, 15 Aug 2014 18:34:13 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/16/nyregion/an-education-in-keeping-new-york-clean-and-keeping-themselves-safe.html</guid>
+<dc:creator>By TATIANA SCHLOSSBERG</dc:creator>
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/17/nyregion/a-one-shake-two-straws-kind-of-place.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>Neighborhood Joint | Port Richmond: A One-Shake, Two-Straws Kind of Place</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d8da983/sc/10/l/0L0Snytimes0N0C20A140C0A80C170Cnyregion0Ca0Eone0Eshake0Etwo0Estraws0Ekind0Eof0Eplace0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Despite changing ownership and locations several times since its opening in 1932, Egger’s Ice Cream Parlor, on Staten Island’s north shore, remains a great beacon of the classic cone.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d8da983/sc/10/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Egger's Ice Cream Parlor</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Staten Island (NYC)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Ice Cream and Frozen Desserts</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Port Richmond (Staten Island, NY)</category>
+<pubDate>Fri, 15 Aug 2014 17:16:51 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/17/nyregion/a-one-shake-two-straws-kind-of-place.html</guid>
+<dc:creator>By LEAH KOENIG</dc:creator>
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/15/us/ferguson-missouri-police-shooting.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>New Tack on Unrest Eases Tension in Missouri</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d85e94b/sc/7/l/0L0Snytimes0N0C20A140C0A80C150Cus0Cferguson0Emissouri0Epolice0Eshooting0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>As the local police prepared to release the name of the officer who fatally shot an unarmed teenager, the Missouri State Highway Patrol took over security in Ferguson.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d85e94b/sc/7/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366551902/u/392/f/640361/c/34625/s/3d85e94b/sc/7/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366551902/u/392/f/640361/c/34625/s/3d85e94b/sc/7/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366551902/u/392/f/640361/c/34625/s/3d85e94b/sc/7/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366551902/u/392/f/640361/c/34625/s/3d85e94b/sc/7/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366551902/u/392/f/640361/c/34625/s/3d85e94b/sc/7/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366551902/u/392/f/640361/c/34625/s/3d85e94b/sc/7/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366551902/u/392/f/640361/c/34625/s/3d85e94b/sc/7/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366551902/u/392/f/640361/c/34625/s/3d85e94b/sc/7/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366551902/u/392/f/640361/c/34625/s/3d85e94b/sc/7/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Twitter|TWTR|NYSE</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Civil Liberties Union</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Michael (1996-2014)</category>
+<category domain="http://www.nytimes.com/namespaces/nyt_org_all">McDonald's Corporation|MCD|NYSE</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferguson (Mo)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+<pubDate>Fri, 15 Aug 2014 02:47:58 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/15/us/ferguson-missouri-police-shooting.html</guid>
+<dc:creator>By JOHN SCHWARTZ, MICHAEL D. SHEAR and MICHAEL PAULSON</dc:creator>
+</item>
+<item>
+<atom:link href="http://www.nytimes.com/2014/08/15/world/europe/a-ukraine-city-under-siege-just-terrified-of-the-bombing.html?partner=rss&amp;emc=rss" rel="standout" />
+<title>A Ukraine City Under Siege, ‘Just Terrified of the Bombing’</title>
+<link>http://rss.nytimes.com/c/34625/f/640361/s/3d85e948/sc/8/l/0L0Snytimes0N0C20A140C0A80C150Cworld0Ceurope0Ca0Eukraine0Ecity0Eunder0Esiege0Ejust0Eterrified0Eof0Ethe0Ebombing0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+<description>Life in Luhansk, Ukraine, is tough, but far from catastrophic. The only relief most people here seek is from the shelling, which goes on night and day.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640361/s/3d85e948/sc/8/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366551901/u/392/f/640361/c/34625/s/3d85e948/sc/8/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366551901/u/392/f/640361/c/34625/s/3d85e948/sc/8/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366551901/u/392/f/640361/c/34625/s/3d85e948/sc/8/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366551901/u/392/f/640361/c/34625/s/3d85e948/sc/8/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366551901/u/392/f/640361/c/34625/s/3d85e948/sc/8/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366551901/u/392/f/640361/c/34625/s/3d85e948/sc/8/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366551901/u/392/f/640361/c/34625/s/3d85e948/sc/8/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366551901/u/392/f/640361/c/34625/s/3d85e948/sc/8/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366551901/u/392/f/640361/c/34625/s/3d85e948/sc/8/a2t.img" border="0"/&gt;</description>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bombs and Explosives</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+<pubDate>Fri, 15 Aug 2014 01:21:03 GMT</pubDate>
+<guid isPermaLink="false">http://www.nytimes.com/2014/08/15/world/europe/a-ukraine-city-under-siege-just-terrified-of-the-bombing.html</guid>
+<dc:creator>By ANDREW E. KRAMER</dc:creator>
+</item>
+</channel>
+</rss>
